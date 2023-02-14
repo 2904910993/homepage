@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* *{margin: 0; padding: 0;} */
+/* @import url(reset.css); */
+
+.첫째,
+.둘째,
+.셋째,
+.넷째,
+.다섯째,
+.여섯째,
+.일곱 {
+    margin-top: 20px;
+    border-bottom: solid 3px #222;
+    padding-bottom: 20px;
+
+}
+
+.둘째 form {
+    border: 1px solid #222;
+    padding: 10px;
+}
